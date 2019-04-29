@@ -1,0 +1,188 @@
+
+#CpImg {
+	list-style-image: url('./thumbnails/c++.png');
+}
+
+#PyImg {
+	list-style-image: url('./thumbnails/python.png');
+}
+
+#HtmlImg {
+	list-style-image: url('./thumbnails/html.png');
+}
+
+#CssImg {
+	list-style-image: url('./thumbnails/css.png');
+}
+
+#JsImg {
+	list-style-image: url('./thumbnails/javascript.png');
+}
+
+#JqImg {
+	list-style-image: url('./thumbnails/jquery.png');
+}
+
+#SqlImg {
+	list-style-image: url('./thumbnails/sql.png');
+}
+
+#JvImg {
+	list-style-image: url('./thumbnails/java.png');
+}
+
+#ShImg {
+	list-style-image: url('./thumbnails/bash.png');
+}
+
+#RbImg {
+	list-style-image: url('./thumbnails/ruby.png');
+}
+
+#SaltImg {
+	list-style-image: url('./thumbnails/saltstack.png');
+}
+
+#PhpImg {
+	list-style-image: url('./thumbnails/php.png');
+}
+
+#JjImg {
+	list-style-image: url('./thumbnails/jinja2.png');
+}
+
+#NxImg {
+	list-style-image: url('./thumbnails/nginx.png');
+}
+
+#AsImg {
+	list-style-image: url('./thumbnails/androidstudios.png');
+}
+
+#GhImg {
+	list-style-image: url('./thumbnails/github.png');
+}
+
+#PrImg {
+	list-style-image: url('./thumbnails/packer.png');
+}
+
+#NdImg {
+	list-style-image: url('./thumbnails/node.png');
+}
+
+#DoImg {
+	list-style-image: url('./thumbnails/digitalocean.png');
+}
+
+#MoImg {
+	list-style-image: url('./thumbnails/mongo.png');
+}
+
+#FnImg {
+	list-style-image: url('./thumbnails/FreeNAS.png');
+}
+
+#WiImg {
+	list-style-image: url('./thumbnails/wine.png');
+}
+
+#VgImg {
+	list-style-image: url('./thumbnails/vagrant.png');
+}
+
+#OrImg {
+	list-style-image: url('./thumbnails/oracle.png');
+}
+
+#PgImg {
+	list-style-image: url('./thumbnails/postgresql.png');
+}
+
+#LrImg {
+	list-style-image: url('./thumbnails/lektor.png');
+}
+
+#RoImg {
+	list-style-image: url('./thumbnails/rambo.png');
+}
+
+#VbImg {
+	list-style-image: url('./thumbnails/virtualbox.png');
+}
+
+#LeImg {
+	list-style-image: url('./thumbnails/letsencrypt.png');
+}
+
+#MyImg {
+	list-style-image: url('./thumbnails/mysql.png');
+}
+
+#DjImg {
+	list-style-image: url('./thumbnails/django.png');
+}
+
+#RcImg {
+	list-style-image: url('./thumbnails/react.png');
+}
+
+#XsImg {
+	list-style-image: url('./thumbnails/xserver.png');
+}
+
+#JnImg {
+    list-style-image: url('./thumbnails/json.png');
+}
+
+#YlImg {
+    list-style-image: url('./thumbnails/yaml.png');
+}
+
+#YsImg {
+    list-style-image: url('./thumbnails/yasha.png');
+}
+
+#S3Img {
+    list-style-image: url('./thumbnails/s3bucket.png');
+}
+
+#EcImg {
+    list-style-image: url('./thumbnails/ec2.png');
+}
+
+#LdImg {
+    list-style-image: url('./thumbnails/lambda.png');
+}
+
+#CfImg {
+    list-style-image: url('./thumbnails/cloudformation.png');
+}
+
+#RtImg {
+    list-style-image: url('./thumbnails/route53.png');
+}
+
+#SfImg {
+    list-style-image: url('./thumbnails/stepfunctions.png');
+}
+
+#CdImg {
+    list-style-image: url('./thumbnails/chrome.png');
+}
+
+#EmImg {
+    list-style-image: url('./thumbnails/emacs.png');
+}
+
+#VmImg {
+		list-style-image: url('./thumbnails/vim.png');
+}
+
+#NoImg {
+		list-style-image: url('./thumbnails/nano.png');
+}
+
+#GtImg {
+		list-style-image: url('./thumbnails/gedit.png');
+}

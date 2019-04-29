@@ -1,0 +1,90 @@
+
+/* Primary Background & Text Color */
+#PBG {
+    background-color: #1A1A1D;
+    color: #FFCB9A;
+}
+
+/* Name */
+#N {
+    margin-top: 1%;
+		font-size: 20px;
+}
+/* Personal Information */
+.PI {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Center Article Column */
+.CAC {
+    width: 50%;
+    margin: auto;
+}
+
+/* Paragraph Indentation */
+.indent {
+    text-indent: 5%;
+}
+
+/**/
+.column {
+    float: right;
+		width: 32%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Center Article Column Thin */
+#CACT {
+	width: 48%;
+	margin: auto;
+}
+
+/* No Bottom Vertical White-space*/
+.NBVW {
+		text-indent: 8%;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		margin-top: 4px;
+    margin-bottom: 2px;
+}
+
+/* No Top Vertical White-space*/
+.NTVW {
+		padding-top: 0px;
+    margin-top: 0px;
+}
+
+
+/* Large Font */
+
+.LF {
+		font-size: large;
+		list-style-position: outside;
+}
+
+/* Title negative Indentation */
+.TNI {
+    text-indent: -5%;
+}
+
+/* Media Queries */
+
+@media(max-width: 900px){
+	.CAC,
+	#CACT,
+	.column {
+		width: 100%;
+	}
+
+	.TNI {
+		text-indent: 0%;
+	}
+}
